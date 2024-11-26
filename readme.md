@@ -62,10 +62,10 @@
 <h1 align="cneter">~~~~프로젝트 👍</h1>
 
 <div align="center">
-    <img src="./img/사진.jpg" style="zoom:22%" aling="center"/>
+    <img src="./img/사진.jpg" style="width:100px" aling="center"/>
 </div>
 
-최원익  
+> 최원익  
 
 [블로그](https://blog.naver.com/dyd975)
 
@@ -74,3 +74,7 @@
 ## 📌 프로젝트 주제
 
 실시간 문서 편집/채팅
+
+## 🗂️ 주제 선정 이유
+
+kafka를 활용하여 실시간 정보 공유를 해보고 싶어서
